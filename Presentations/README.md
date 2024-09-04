@@ -32,7 +32,7 @@
 -
 
 ### Self Attention
--
+- Relevance of a word to each other words
 -
 
 ### Multi-head Attention
