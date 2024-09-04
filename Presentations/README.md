@@ -33,7 +33,7 @@
 -
 
 ### Positional Encoding
--
+- Capture the order of the sequence.
 -
 
 ### Encoder
