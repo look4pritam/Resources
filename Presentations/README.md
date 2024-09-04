@@ -38,11 +38,14 @@
 
 ### Encoder
 - Multi-head Self Attention
-- Feed Forward Neural Network 
+- Feed Forward Neural Network
+- Residual connections
+- Layer normalization 
 
 ### Decoder
 -
--
+- Residual connections
+- Layer normalization
 
 ### Self Attention
 - Relevance (or importance) of a word to each other words
