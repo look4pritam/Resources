@@ -1,4 +1,12 @@
-# Transformer
+# Transformer Models
+
+### Next Token Prediction
+- Recurrent Neural Networks - RNN
+- Transformer Models
+
+### Recurrent Neural Networks
+-
+-
 
 ### Ambiguous Words
 - I live near the bank.
