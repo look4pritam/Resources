@@ -14,6 +14,23 @@
   - A place where one deposits and withdraws money 
 -
 
+### Transformer Architecture
+- Embedding
+- Encoder
+- Decoder
+
+### Embedding
+- Tokenizer
+-
+
+### Encoder
+-
+-
+
+### Decoder
+-
+-
+
 ### Self Attention
 -
 -
