@@ -20,6 +20,7 @@
 - Positional Encoding
 - Encoder
 - Decoder
+- Softmax 
 
 ### Tokenization
 -
@@ -34,8 +35,8 @@
 -
 
 ### Encoder
--
--
+- Self Attention
+- Feed Forward Network
 
 ### Decoder
 -
