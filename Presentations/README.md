@@ -48,6 +48,9 @@
 ### Multi-headed Self Attention
 - Multiple Self Attentions
 - Different aspects of language
+  - Relationship different entities in a sentence
+  - Activities in a sentence 
+-
 
 ###
 -
