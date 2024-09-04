@@ -45,9 +45,9 @@
 - Relevance (or importance) of a word to each other words
 - Attention weights - Attention maps
 
-### Multi-head Attention
+### Multi-headed Self Attention
 - Multiple Self Attentions
--
+- Different aspects of language
 
 ###
 -
