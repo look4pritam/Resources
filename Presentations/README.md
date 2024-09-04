@@ -44,10 +44,9 @@
 ### Self Attention
 - Relevance (or importance) of a word to each other words
 - Attention weights - Attention maps
--
 
 ### Multi-head Attention
--
+- Multiple Self Attentions
 -
 
 ###
