@@ -61,10 +61,14 @@
 - Text classification
 - Sentiment analysis
 
-### Encoder DEcoder Models
+### Encoder Decoder Models
 - Sequence to Sequence Task
 -
- 
+
+### Decoder Only Models
+- GPT, Llama
+-
+
 ### Sequence to Sequence Task
 -
 -
