@@ -1,5 +1,9 @@
 # Transformer Models
 
+### Sequence to Sequence Task
+-
+-
+
 ### Next Token Prediction
 - Recurrent Neural Networks - RNN
 - Transformer Models
