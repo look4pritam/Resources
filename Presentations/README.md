@@ -29,6 +29,8 @@
 ### Tokenization
 - Word (token) to Identifier
 - Vocabulary
+- Start of sequence token
+- End of sequence token
 
 ### Embeddings
 - 
