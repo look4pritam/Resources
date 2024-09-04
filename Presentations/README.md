@@ -61,5 +61,6 @@
 
 ### Encoder Only Models
 - Only encoder
+  - BERT
 - Text classification
 - Sentiment analysis
