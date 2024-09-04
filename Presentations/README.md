@@ -23,8 +23,8 @@
 - Softmax 
 
 ### Tokenization
--
--
+- Word (token) to Identifier
+- Vocabulary
 
 ### Embeddings
 - 
