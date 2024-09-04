@@ -15,12 +15,17 @@
 -
 
 ### Transformer Architecture
-- Embedding
+- Tokenization
+- Embeddings
 - Encoder
 - Decoder
 
-### Embedding
-- Tokenizer
+### Tokenization
+-
+-
+
+### Embeddings
+- 
 -
 
 ### Encoder
