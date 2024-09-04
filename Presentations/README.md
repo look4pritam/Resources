@@ -37,8 +37,8 @@
 -
 
 ### Encoder
-- Self Attention
-- Feed Forward Network
+- Multi-head Self Attention
+- Feed Forward Neural Network 
 
 ### Decoder
 -
