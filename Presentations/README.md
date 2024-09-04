@@ -1,9 +1,5 @@
 # Transformer Models
 
-### Sequence to Sequence Task
--
--
-
 ### Next Token Prediction
 - Recurrent Neural Networks - RNN
 - Transformer Models
@@ -64,3 +60,11 @@
   - BERT
 - Text classification
 - Sentiment analysis
+
+### Encoder DEcoder Models
+- Sequence to Sequence Task
+-
+ 
+### Sequence to Sequence Task
+-
+-
