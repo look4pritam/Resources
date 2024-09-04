@@ -17,6 +17,7 @@
 ### Transformer Architecture
 - Tokenization
 - Embeddings
+- Positional Encoding
 - Encoder
 - Decoder
 
@@ -26,6 +27,10 @@
 
 ### Embeddings
 - 
+-
+
+### Positional Encoding
+-
 -
 
 ### Encoder
