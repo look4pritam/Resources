@@ -33,6 +33,7 @@
 
 ### Self Attention
 - Relevance of a word to each other words
+- Attention weights - Attention maps
 -
 
 ### Multi-head Attention
