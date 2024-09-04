@@ -59,6 +59,7 @@
   - Activities in a sentence 
 -
 
-###
--
--
+### Encoder Only Models
+- Only encoder
+- Text classification
+- Sentiment analysis
